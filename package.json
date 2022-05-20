@@ -1,0 +1,24 @@
+{
+  "name": "filter_images",
+  "version": "1.0.0",
+  "description": "\"javascript,for-loop, js filter images\"",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mDavron/Filterable-Image-Gallery.git"
+  },
+  "keywords": [
+    "Filterable",
+    "Image",
+    "Gallery"
+  ],
+  "author": "Davron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mDavron/Filterable-Image-Gallery/issues"
+  },
+  "homepage": "https://github.com/mDavron/Filterable-Image-Gallery#readme"
+}
